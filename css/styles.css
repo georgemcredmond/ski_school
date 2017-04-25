@@ -1,0 +1,65 @@
+/* Stylesheet created by George McRedmond */
+
+body {
+	color: white;
+	background-color: DodgerBlue;
+	font-family: Calibri, sans-serif;
+}
+
+#branding {
+	font-family: 'Righteous', sans-serif;
+	color: yellow;
+	font-size: 2.8em;
+	text-shadow: 1px 1px black;
+}
+
+nav, #content, footer {
+	background-color: LightBlue ;
+	padding: 10px;
+}
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+}
+
+img {
+	float: left;
+	margin-right: 0.75em;
+	margin-bottom: 0.75em;
+	width: 75%;
+	border-radius: 3em;
+	border: solid 1px red;
+}
+
+#outer-wrapper {
+	width: 90%;
+	margin: 0 auto 0 auto;
+}
+
+h1, h2, h3 {
+	font-family: Verdana, sans-serif;
+	padding-top: 1%;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+	background-color: yellow;
+	
+}
+
+nav {
+	clear: both;
+}
+
+
+.clearfloat {
+	clear: both;
+}
+
+
+
+
+
+
